@@ -1,2 +1,2 @@
 # second-project
-Second project 
+# This is the Second project of my Github
